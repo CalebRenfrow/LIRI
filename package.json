@@ -1,0 +1,26 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "HW-Liri package (has Twitter,Spotify,Request, and DotEnv",
+  "main": "LIRI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Liri",
+    "LIRI",
+    "liri",
+    "Twitter",
+    "Spotify",
+    "Request",
+    "DotEnv"
+  ],
+  "author": "Caleb Renfrow",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
